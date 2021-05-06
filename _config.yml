@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: No Publishers Were Harmed
-subtitle: Safe experiments with Publishers
 email: sdidla@gmail.com
 
 # Build settings
