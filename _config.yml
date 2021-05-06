@@ -22,7 +22,7 @@ title: No Publishers Were Harmed
 email: sdidla@gmail.com
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
