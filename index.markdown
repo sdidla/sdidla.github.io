@@ -4,4 +4,4 @@
 layout: home
 ---
 
-Welcome 👋
+A space for talking about safe experiments with [`Publishers`](https://developer.apple.com/documentation/combine/publishers)
